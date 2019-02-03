@@ -1,0 +1,22 @@
+{
+  "name": "oklart",
+  "version": "1.0.0",
+  "description": "Project to test the whole stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loofhenrik/oklart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loofhenrik/oklart/issues"
+  },
+  "homepage": "https://github.com/loofhenrik/oklart#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
